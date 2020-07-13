@@ -186,6 +186,12 @@ p {
   .col-sm-12 {
     width: 100%;
   }
+  .pp3{
+    width: 95%;
+  }
+  #p3{
+    right: 2.5%;
+  }
 }
 /********** Mobile devices only **********/
 @media (max-width: 767px){
